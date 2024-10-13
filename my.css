@@ -8,14 +8,14 @@ color:red;
 .left
 {
   width=30%;
-  float:left}
+  float:left;}
 
 .right
 {
     width=30%;
-  float:right}
-.centre
+  float:right;}
+.center
 {
   width=30%;
-  float:centre
+  float:center;
 }
